@@ -78,3 +78,6 @@ We used:
 - Deploy the model as an **API / Dashboard** for financial institutions.  
 
 ---
+
+## 👩‍💻 Author
+**Meenal Gaikwad**
